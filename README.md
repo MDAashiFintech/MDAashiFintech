@@ -1,4 +1,10 @@
-![MasterHead](https://codilime.com/static/7150aa1f015beb5165e9ee4640851ecc/header-data-science-vs-data-analytics.png)
+<!-- Center-aligned GIF with HTML -->
+<!-- Center-aligned GIF with HTML -->
+<p align="center">
+  <!-- Larger GIF with HTML -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc1Ymt6ODJ1d3N0cGo3cmIxdjRtdXR2M3czNTZzZmNzZHZxdnM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="GIF" height="450" width="1000">
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Aashif Ansari</h1>
 <h3 align="center">A passionate Python Developer | Data Science | Machine Learning</h3>
 <img align="right" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" alt="Girl in a jacket" width="500">
